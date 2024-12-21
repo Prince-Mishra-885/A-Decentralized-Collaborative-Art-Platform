@@ -6,6 +6,8 @@ CollaborativeArt is a blockchain-based platform where creators and contributors 
 
 ## Contract Address
 0x25451e8e9f4cd292d2e1ddd56718f59a7cf27dde
+![image](https://github.com/user-attachments/assets/86946f83-8905-4d19-a275-e8f0d142063a)
+
 
 ## Project Vision
 CollaborativeArt envisions a world where creativity is democratized, and collaboration transcends borders. By utilizing blockchain technology, we aim to create a fair, transparent, and efficient system for artists and contributors to co-create and be rewarded for their efforts. Our platform fosters a decentralized community-driven approach to art creation.
